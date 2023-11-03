@@ -1,0 +1,59 @@
+/* .imgData{
+        display: block;
+    width: 178px;
+    height: 170px;
+    margin: 0 auto;
+    position: relative;
+} */
+
+/* .getBestPriceBtn{
+    color: white;
+text-decoration: none;
+}
+
+.getBestPriceBtn:hover{
+ color: #2e3192;
+} */
+.anchorGetBestPriceBtn {
+    background-color: #2e3192;
+    /* padding: 5px 0; */
+    width: 160px;
+    /* padding-top: ; */
+    height: 30px;
+    border-radius: 3%;
+    color: white ;
+    /* overflow: hidden; */
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    border: 1px solid transparent; 
+    margin-top: 10px;
+}
+
+.anchorGetBestPriceBtn:hover {
+    background-color: white;
+    color: #2e3192 ;
+    border-color: #2e3192; 
+}
+
+.cardProducts:hover{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.item-name{
+        display: -webkit-box!important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 60px!important;
+}
+
+.company-name{
+     display: -webkit-box!important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 55px!important;
+}

@@ -1,0 +1,61 @@
+.header {
+    /* display:  flex; */
+    /* justify-content: space-between; */
+  background-color: #2e3192;
+  /* z-index: 8; */
+  height: 64px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12px;
+  /* overflow: hidden; */
+  z-index: 1;
+}
+
+.myMart {
+  margin-top: -5px;
+  background-position: 1px;
+  /* text-indent: -99999px; */
+  font-size: 25px;
+  color: white;
+  font-weight: bolder;
+  width: 150px;
+  text-decoration: none;
+  background-size: 235%;
+  box-sizing: border-box;
+}
+.searchBtn{
+    height: 40px;
+    text-decoration: none;
+    width: 50px;
+    background-color: rgb(83, 231, 174);
+    
+}
+.allIndiaDropdown1{
+     height: 34px;
+    text-decoration: none;
+    padding-top: 10px;
+    /* border-radius: 5px; */
+    width: 120px;
+    background-color: white;
+}
+
+.allIndiaDropdown{
+     height: 40px;
+    text-decoration: none;
+    padding-top: 10px;
+    /* border-radius: 5px; */
+    width: 120px;
+    background-color: rgb(228, 221, 221);
+}
+/* @media only screen and (min-width: 1290px) and (max-width: 1515px) {
+  .something {
+    width: 1296px;
+  }
+} */
+
+.bg-img-searchbar{
+  padding-top: 200px;
+  background-image: url(https://hm.imimg.com/imhome_gifs/bg-img.jpg);
+}
